@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "7be597db6316c645",
+    "type": "split",
+    "children": [
+      {
+        "id": "23090febeb2c442d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68d90324e61c987b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "media/Pasted image 20260209173252.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260209173252"
+            }
+          },
+          {
+            "id": "df2a435faac758a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "media/Pasted image 20260112121934.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260112121934"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b331b5972380c006",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5fbac4b2ed83a12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8831373c0702b1bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c6021bf809141c66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9563ac99ae129bef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee788d9476779c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d4f821bbfa6095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8186470380644535",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Winter week 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Winter week 1"
+            }
+          },
+          {
+            "id": "d4a315a1dac60ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Winter week 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Winter week 1"
+            }
+          },
+          {
+            "id": "099da135ca4813e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a3909d5ad4ef615",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "64f3d994c90dd347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Winter week 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Winter week 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8831373c0702b1bb",
+  "lastOpenFiles": [
+    "media",
+    "media/Pasted image 20260209173252.png",
+    "Winter week 5.md",
+    "Winter week 4 (3).md",
+    "media/Pasted image 20260209172829.png",
+    "media/Pasted image 20260209172703.png",
+    "media/Pasted image 20260209172514.png",
+    "media/Pasted image 20260209172232.png",
+    "media/Pasted image 20260209171945.png",
+    "media/Pasted image 20260209171547.png",
+    "media/Pasted image 20260209171318.png",
+    "media/Pasted image 20260209171139.png",
+    "media/Pasted image 20260209170827.png",
+    "Winter week 1.md",
+    "Winter week 2.md"
+  ]
+}
